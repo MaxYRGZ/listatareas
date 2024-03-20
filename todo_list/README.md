@@ -5,10 +5,10 @@ Este proyecto es una aplicación de lista de tareas desarrollada en React, que p
 
 **Instrucciones de Configuración:**
 1. Fork y Clonación del Repositorio:
-   - Fork el repositorio desde [aquí](https://github.com/ibm-developer-skills-network/uqwxd-react_labs.git).
+   - Fork el repositorio desde [aquí](https://github.com/MaxYRGZ/listatareas.git).
    - Clone el repositorio a su entorno local utilizando el siguiente comando:
      ```
-     git clone https://github.com/<tu_nombre_de_usuario_GitHub>/uqwxd-react_labs.git
+     git clone https://github.com/MaxYRGZ/listatareas.git
      ```
 
 2. Instalación y Ejecución del Servidor:
