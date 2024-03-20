@@ -1,11 +1,11 @@
 h1 {
     text-align: center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
   }
 
   body {
-    background: grey
+    background: rgb(255, 255, 255)
   }
   #todo-list {
     width: 500px;
@@ -33,7 +33,7 @@ h1 {
     
   button {
     font-size: 16px;
-    background-color: rgb(62, 138, 151);
+    background-color: rgb(80, 219, 243);
     color: #fff;
     border-radius: 8px;
     border: none;
